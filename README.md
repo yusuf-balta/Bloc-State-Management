@@ -1,2 +1,2 @@
 # Bloc-State-Management
-BLoC kullanarak Firebaseden Çektiğimiz Verileri Ekranda Gösterdik. BLoC managmenti nasıl kullanabileceğimizi öğreniyoruz
+BLoC(cubit) kullanarak Firebaseden Çektiğimiz Verileri Ekranda Gösterdik. BLoC(cubit) managmenti nasıl kullanabileceğimizi öğreniyoruz
